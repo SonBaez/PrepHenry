@@ -1,2 +1,2 @@
-# PrepHenry
-Repositorio de prueba modulo 2 Sonia Baez
+En este proyecto creamosun repositorio y lo clonamos desde github a mi pc. 
+
